@@ -4,6 +4,8 @@ We are using AngularJS for the front end development.
 
 All information bellow is for AngularJS Seed
 
+[![Build Status](https://travis-ci.org/libreworld/libreworld.org.svg?branch=develop)](https://travis-ci.org/libreworld/libreworld.org)
+
 
 -------------------------------------------
 
