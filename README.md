@@ -1,10 +1,11 @@
 # LibreWorld Website Development
+
+[![Build Status](https://travis-ci.org/libreworld/libreworld_frontend.svg?branch=develop)](https://travis-ci.org/libreworld/libreworld_frontend)
+
 This is the repository for libreworld.org web development.
 We are using AngularJS for the front end development.
 
 All information bellow is for AngularJS Seed
-
-[![Build Status](https://travis-ci.org/libreworld/libreworld.org.svg?branch=develop)](https://travis-ci.org/libreworld/libreworld.org)
 
 
 -------------------------------------------
