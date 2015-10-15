@@ -1,3 +1,13 @@
+# LibreWorld Website Development
+This is the repository for libreworld.org web development.
+We are using AngularJS for the front end development.
+
+All information bellow is for AngularJS Seed
+
+
+-------------------------------------------
+
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
